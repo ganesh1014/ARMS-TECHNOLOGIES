@@ -248,7 +248,7 @@
 
 
 
-// src/data/products.js
+//src/data/products.js
 import { 
   FlaskConical, 
   Package, 
