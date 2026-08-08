@@ -9,7 +9,11 @@ function App() {
 
   return (
     <>
-      <h1>hello armslab</h1>
+      <div className="min-h-screen bg-gray-900 flex items-center justify-center">
+      <h1 className="text-5xl font-bold text-white">
+        Hello Tailwind! 🚀
+      </h1>
+      </div>
     </>
   )
 }
